@@ -4,10 +4,12 @@ El siguiente repositorio almacena una prueba técnica que consta de una parte de
 *Primer reto:
   - Usar cualquier lenguaje de programación. Python o Nodejs son preferibles.
   - Implementar pruebas unitarias. (Opcional)
-  Archivo:
+  
+  *Archivo:
     - Reto_Programacion.
 
 *Segundo reto: 
   - Realizar queries para responder una serie de preguntas.
-  Archivo: 
+  
+  *Archivo: 
     - Reto_SQL.
